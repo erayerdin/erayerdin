@@ -11,12 +11,8 @@ My name is Eray Erdin. I am a ⌨ open source software developer and a tech writ
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![Profile details](https://github-readme-stats.vercel.app/api?username=erayerdin#gh-light-mode-only)
+![Profile details](https://github-readme-stats.vercel.app/api?username=erayerdin)
 
-![Profile details](https://github-readme-stats.vercel.app/api?username=erayerdin&theme=github_dark#gh-dark-mode-only)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerdin&layout=compact#gh-light-mode-only)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerdin&layout=compact&theme=github_dark#gh-dark-mode-only)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erayerdin&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=erayerdin)
