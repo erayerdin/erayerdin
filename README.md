@@ -4,7 +4,10 @@
 [![Telegram](https://img.shields.io/badge/@erayerdin-2CA5E0?style=flat-square&logo=telegram&logoColor=white
 )]()
 
-Software engineer and tech writer.
+
+ - I write some code, which is why you're here.
+ - I write about coding, which you can see [here](https://erayerdin.com).
+ - I make videos on some programming stuff on Schrödinger's Watermelon Youtube channel, which you can watch [here](https://youtube.com/@_schwm). Most of them are about Rust language for now.
 
 Visit my [Github](https://github.com/erayerdin/) profile to see my open-source projects.
 
