@@ -1,3 +1,6 @@
+> [!CAUTION]
+> I semi-abandon Github and encourage my fellow devs to do so, the reasons of which are given in [GiveUpGithub.Org][https://giveupgithub.org], and suggest my fellow devs to do the same. Shortly, Github actively uses copyleft licenses like GPL, MPL and their derivatives as training data for their AI models, which legally renders the output as copyleft or . However, (a) the models are being used in closed-source software and (b) the tool is being used for rewriting (?) copyleft licensed software and releasing them under copyright license. I recommend [Codeberg](https://codeberg.org/) as an open-source code hosting platform alternative and I will be active there from now on.
+
 # Hi there! ✌
 
 <p align="center">
